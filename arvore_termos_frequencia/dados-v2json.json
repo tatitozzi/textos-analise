@@ -1,0 +1,173 @@
+{    
+    "name": "Relatório",
+    "children":[
+
+{"name": "Indíviduo",
+    
+    "children": [
+       {"name": "Competências técnicas",
+        "children": [
+            {"name": "Saber", "children": [{"name": "4"}]},
+            {"name": "Competência", "children": [{"name": "5"}]}, 
+            {"name": "Conhecimento", "children": [{"name": "33"}]},
+            {"name": "Prática", "children": [{"name": "60"}]},
+            {"name": "Vivência", "children": [{"name": "3"}]},
+            {"name": "Treinamento", "children": [{"name": "39"}]},
+            {"name": "Capacitação", "children": [{"name": "24"}]},
+            {"name": "Capacidade","children": [{"name": "10"}]}
+        ]},
+
+        {"name": "Comunicação",
+        "children": [
+            {"name": "Comunicação", "children": [{"name": "40"}]}, 
+            {"name": "Informação", "children": [{"name": "138"}]}, 
+            {"name": "Feedback", "children": [{"name": "3"}]},
+            {"name": "Transmissão", "children": [{"name": "4"}]},
+            {"name": "Entendimento", "children": [{"name": "8"}]}
+        ]},
+
+        {"name": "Trabalho em Equipe",
+        "children": [
+            {"name": "Equipe", "children": [{"name": "211"}]}, 
+            {"name": "Time", "children": [{"name": "37"}]}, 
+            {"name": "Grupo","children": [{"name": "6"}]},
+            {"name": "Conflito", "children": [{"name": "3"}]}
+        ]},
+
+        {"name": "Capacidade relacional",
+        "children": [
+            {"name": "Proximidade", "children": [{"name": "7"}]}, 
+            {"name": "Respeito", "children": [{"name": "9"}]}, 
+            {"name": "Compreensão", "children": [{"name": "2"}]}
+       ]},
+
+       {"name": "Tomada de decisão",
+       "children": [
+           {"name": "Tomada de decisão", "children": [{"name": "2"}]}, 
+           {"name": "Decidido", "children": [{"name": "8"}]}, 
+           {"name": "Decisivo", "children": [{"name": "18"}]},
+           {"name": "Interromper", "children": [{"name": "4"}]},
+           {"name": "Decisão", "children": [{"name": "18"}]},
+           {"name": "Aprovação","children": [{"name": "16"}]},
+           {"name": "Análise", "children": [{"name": "108"}]},
+           {"name": "Aprovar", "children": [{"name": "33"}]},
+           {"name": "Ação", "children": [{"name": "1582"}]},
+           {"name": "Assumiu","children": [{"name": "2"}]}
+      ]},
+
+      {"name": "Consciência situacional",
+      "children": [
+          {"name": "Atenção", "children": [{"name": "2"}]}, 
+          {"name": "Risco", "children": [{"name": "152"}]}
+     ]},
+
+     {"name": "Atitude",
+     "children": [
+         {"name": "Motivação", "children": [{"name": "3"}]}, 
+         {"name": "Atenção", "children": [{"name": "2"}]}, 
+         {"name": "Informou", "children": [{"name": "8"}]}
+    ]},
+
+    {"name": "Condições psicológicas",
+    "children": [
+        {"name": "Mental", "children": [{"name": "5"}]}
+   ]},
+
+   {"name": "Condições fisiológicas",
+   "children": [
+       {"name": "Sono", "children": [{"name": "6"}]}
+  ]},
+
+  {"name": "Condições Sociais",
+  "children": [
+      {"name": "Cultura", "children": [{"name": "2"}]},
+      {"name": "Lingua", "children": [{"name": "4"}]},
+      {"name": "Idioma", "children": [{"name": "2"}]},
+      {"name": "Família", "children": [{"name": "4"}]},
+      {"name": "Familiar", "children": [{"name": "3"}]}
+ ]}
+
+ ]},
+
+ {"name": "Trabalho",
+ "children": [
+   
+ {"name": "Design do trabalho",
+   "children": [
+      {"name": "Regra", "children": [{"name": "3"}]},
+      {"name": "Instrução", "children": [{"name": "27"}]},
+      {"name": "Diretriz", "children": [{"name": "2"}]},
+      {"name": "Procedimento", "children": [{"name": "227"}]},
+      {"name": "Norma", "children": [{"name": "52"}]},
+      {"name": "Revisão", "children": [{"name": "143"}]},
+      {"name": "Desvio", "children": [{"name": "6"}]},
+      {"name": "Gerenciamento de mudança", "children": [{"name": "52"}]},
+      {"name": "Gestão de mudança", "children": [{"name": "27"}]},
+      {"name": "Revisão", "children": [{"name": "143"}]},
+      {"name": "Reavaliação", "children": [{"name": "2"}]}
+   ]},
+  
+   {"name": "Design de interface",
+   "children": [
+      {"name": "Equipamento", "children": [{"name": "91"}]},
+      {"name": "Salvaguarda", "children": [{"name": "25"}]},
+      {"name": "Instrumento", "children": [{"name": "15"}]},
+      {"name": "Ferramenta", "children": [{"name": "26"}]},
+      {"name": "Instalação", "children": [{"name": "170"}]},
+      {"name": "Dimensionamento", "children": [{"name": "3"}]},
+      {"name": "Configuração", "children": [{"name": "7"}]}
+   ]},
+  
+   {"name": "Condições internas",
+   "children": [
+      {"name": "Temperatura", "children": [{"name": "24"}]},
+      {"name": "Calor", "children": [{"name": "12"}]},
+      {"name": "Ruído", "children": [{"name": "5"}]},
+      {"name": "Lâmpada", "children": [{"name": "3"}]},
+      {"name": "Som", "children": [{"name": "26"}]},
+      {"name": "Limpeza", "children": [{"name": "19"}]},
+      {"name": "Limpo", "children": [{"name": "21"}]},
+      {"name": "Ventilação", "children": [{"name": "9"}]}
+   ]},
+  
+   {"name": "Condições externas",
+   "children": [
+      {"name": "Mar", "children": [{"name": "361"}]},
+      {"name": "Vento", "children": [{"name": "46"}]},
+      {"name": "Sol", "children": [{"name": "218"}]}
+   ]},
+  
+   {"name": "Liderança",
+   "children": [
+      {"name": "Liderança", "children": [{"name": "26"}]},
+      {"name": "Líder", "children": [{"name": "26"}]},
+      {"name": "Responsável", "children": [{"name": "17"}]},
+      {"name": "Gestão", "children": [{"name": "57"}]}
+   ]}
+
+      ]},
+
+      {"name": "Organização",
+    
+      "children": [
+         {"name": "Cultura de segurança",
+         "children": [
+            {"name": "Cultura de segurança", "children": [{"name": "2"}]}
+         ]},
+        
+         
+         {"name": "Aprendizagem",
+         "children": [
+            {"name": "Treinamento", "children": [{"name": "39"}]},
+            {"name": "Capacitação", "children": [{"name": "24"}]},
+            {"name": "Boas práticas", "children": [{"name": "9"}]}
+         ]},
+        
+          
+         {"name": "Gestão",
+         "children": [
+            {"name": "Gerenciamento de segurança", "children": [{"name": "11"}]},
+            {"name": "Segurança operacional", "children": [{"name": "339"}]}
+         ]}
+           ]}
+]}

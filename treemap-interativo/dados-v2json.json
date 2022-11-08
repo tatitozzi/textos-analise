@@ -1,0 +1,173 @@
+{    
+    "name": "Relatório",
+    "children":[
+
+{"name": "Indíviduo",
+    
+    "children": [
+       {"name": "Competências técnicas",
+        "children": [
+            {"name": "Saber", "value": 4}, 
+            {"name": "Competência", "value": 5 }, 
+            {"name": "Conhecimento","value": 33},
+            {"name": "Prática","value": 60},
+            {"name": "Vivência","value": 3},
+            {"name": "Treinamento","value": 39},
+            {"name": "Capacitação","value": 24},
+            {"name": "Capacidade","value": 10}
+        ]},
+
+        {"name": "Comunicação",
+        "children": [
+            {"name": "Comunicação", "value": 40}, 
+            {"name": "Informação", "value": 138 }, 
+            {"name": "Feedback","value": 3},
+            {"name": "Transmissão","value": 4},
+            {"name": "Entendimento","value": 8}
+        ]},
+
+        {"name": "Trabalho em Equipe",
+        "children": [
+            {"name": "Equipe", "value": 211}, 
+            {"name": "Time", "value": 37 }, 
+            {"name": "Grupo","value": 6},
+            {"name": "Conflito","value": 3}
+        ]},
+
+        {"name": "Capacidade relacional",
+        "children": [
+            {"name": "Proximidade", "value": 7}, 
+            {"name": "Respeito", "value": 9}, 
+            {"name": "Compreensão","value": 2}
+       ]},
+
+       {"name": "Tomada de decisão",
+       "children": [
+           {"name": "Tomada de decisão", "value": 2}, 
+           {"name": "Decidido", "value": 8}, 
+           {"name": "Decisivo","value": 18},
+           {"name": "Interromper","value": 4},
+           {"name": "Decisão","value": 18},
+           {"name": "Aprovação","value": 16},
+           {"name": "Análise","value": 108},
+           {"name": "Aprovar","value": 33},
+           {"name": "Ação","value": 1582},
+           {"name": "Assumiu","value": 2}
+      ]},
+
+      {"name": "Consciência situacional",
+      "children": [
+          {"name": "Atenção", "value": 2}, 
+          {"name": "Risco", "value": 152}
+     ]},
+
+     {"name": "Atitude",
+     "children": [
+         {"name": "Motivação", "value": 3}, 
+         {"name": "Atenção", "value": 2}, 
+         {"name": "Informou", "value": 8}
+    ]},
+
+    {"name": "Condições psicológicas",
+    "children": [
+        {"name": "Mental", "value": 5}
+   ]},
+
+   {"name": "Condições fisiológicas",
+   "children": [
+       {"name": "Sono", "value": 6}
+  ]},
+
+  {"name": "Condições Sociais",
+  "children": [
+      {"name": "Cultura", "value": 2},
+      {"name": "Lingua", "value": 4},
+      {"name": "Idioma", "value": 2},
+      {"name": "Família", "value": 4},
+      {"name": "Familiar", "value": 3}
+ ]}
+
+ ]},
+
+ {"name": "Trabalho",
+ "children": [
+   
+ {"name": "Design do trabalho",
+   "children": [
+      {"name": "Regra", "value": 3},
+      {"name": "Instrução", "value": 27},
+      {"name": "Diretriz", "value": 2},
+      {"name": "Procedimento", "value": 227},
+      {"name": "Norma", "value": 52},
+      {"name": "Revisão", "value": 143},
+      {"name": "Desvio", "value": 6},
+      {"name": "Gerenciamento de mudança", "value": 52},
+      {"name": "Gestão de mudança", "value": 27},
+      {"name": "Revisão", "value": 143},
+      {"name": "Reavaliação", "value": 2}
+   ]},
+  
+   {"name": "Design de interface",
+   "children": [
+      {"name": "Equipamento", "value": 91},
+      {"name": "Salvaguarda", "value": 25},
+      {"name": "Instrumento", "value": 15},
+      {"name": "Ferramenta", "value": 26},
+      {"name": "Instalação", "value": 170},
+      {"name": "Dimensionamento", "value": 3},
+      {"name": "Configuração", "value": 7}
+   ]},
+  
+   {"name": "Condições internas",
+   "children": [
+      {"name": "Temperatura", "value": 24},
+      {"name": "Calor", "value": 12},
+      {"name": "Ruído", "value": 5},
+      {"name": "Lâmpada", "value": 3},
+      {"name": "Som", "value": 26},
+      {"name": "Limpeza", "value": 19},
+      {"name": "Limpo", "value": 21},
+      {"name": "Ventilação", "value": 9}
+   ]},
+  
+   {"name": "Condições externas",
+   "children": [
+      {"name": "Mar", "value": 361},
+      {"name": "Vento", "value": 46},
+      {"name": "Sol", "value": 218}
+   ]},
+  
+   {"name": "Liderança",
+   "children": [
+      {"name": "Liderança", "value": 26},
+      {"name": "Líder", "value": 26},
+      {"name": "Responsável", "value": 17},
+      {"name": "Gestão", "value": 57}
+   ]}
+
+      ]},
+
+      {"name": "Organização",
+    
+      "children": [
+         {"name": "Cultura de segurança",
+         "children": [
+            {"name": "Cultura de segurança", "value": 2}
+         ]},
+        
+         
+         {"name": "Aprendizagem",
+         "children": [
+            {"name": "Treinamento", "value": 39},
+            {"name": "Capacitação", "value": 24},
+            {"name": "Boas práticas", "value": 9}
+         ]},
+        
+          
+         {"name": "Gestão",
+         "children": [
+            {"name": "Gerenciamento de segurança", "value": 11},
+            {"name": "Segurança operacional", "value": 339}
+         ]}
+           ]}
+]}

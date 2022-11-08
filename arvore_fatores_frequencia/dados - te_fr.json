@@ -1,0 +1,114 @@
+{    
+    "name": "Relatório",
+    "children":[
+
+{"name": "Indíviduo",
+    
+    "children": [
+       {"name": "Competências técnicas",
+        "children": [
+            {"name": "179"}
+        ]},
+
+        {"name": "Comunicação",
+        "children": [
+            {"name": "194"}
+        ]},
+
+        {"name": "Trabalho em Equipe",
+        "children": [
+            {"name": "258"}
+        ]},
+
+        {"name": "Capacidade relacional",
+        "children": [
+            {"name": "18"}
+       ]},
+
+       {"name": "Consciência situacional",
+       "children": [
+           {"name": "154"}
+      ]},
+
+       {"name": "Tomada de decisão",
+       "children": [
+           {"name": "1791"}
+      ]},
+
+
+     {"name": "Atitude",
+     "children": [
+         {"name": "16"}
+    ]},
+
+    {"name": "Condições psicológicas",
+    "children": [
+        {"name": "6"}
+   ]},
+
+   {"name": "Condições fisiológicas",
+   "children": [
+       {"name": "7"}
+  ]},
+
+  {"name": "Condições Sociais",
+  "children": [
+      {"name": "15"}
+ ]}
+
+ ]},
+
+ {"name": "Trabalho",
+ "children": [
+   
+ {"name": "Design do trabalho",
+   "children": [
+      {"name": "686"}
+   ]},
+  
+   {"name": "Design de interface",
+   "children": [
+      {"name": "337"}
+   ]},
+  
+   {"name": "Condições internas",
+   "children": [
+      {"name": "123"}
+   ]},
+  
+   {"name": "Condições externas",
+   "children": [
+      {"name": "625"}
+   ]},
+  
+   {"name": "Liderança",
+   "children": [
+      {"name": "127"}
+   ]}
+
+      ]},
+
+      {"name": "Organização",
+    
+      "children": [
+         {"name": "Cultura de segurança",
+         "children": [
+            {"name": "2"}
+         ]},
+                 
+         {"name": "Aprendizagem",
+         "children": [
+            {"name": "72"}
+         ]},
+
+         {"name": "Gestão de Pessoas",
+         "children": [
+            {"name": "0"}
+         ]},
+
+         {"name": "Gestão",
+         "children": [
+            {"name": "352"}
+         ]}
+           ]}
+]}
